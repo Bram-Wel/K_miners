@@ -3,11 +3,9 @@
 # Introduction
 The aim of this project is to have a Kubernetes cluster maintaining Cryptocurrency Mining Containers automatically. This project was not meant for profitability, this was to improve my AWS, Docker and Kubernetes knowledge.
 
-NOTE: This readme will look raw, lots of work went into getting this working properly. Will clean up documentation as time permits, writing down raw notes for reference purposes.
-
 # Resources and Prerequisites
 
-ZCashMiner Docker Image: https://hub.docker.com/r/vjeeva/zcashminer/
+ZCash miner docker image
 
 To run local Vagrant Kops Box:
 - Install Vagrant: https://www.vagrantup.com/downloads.html

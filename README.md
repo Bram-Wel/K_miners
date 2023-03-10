@@ -67,9 +67,3 @@ A list of milestones and accomplishments:
 - Cluster Deployed on AWS with 2 t2.micro nodes each running one container.
 - Kubernetes Dashboard on public domain (associated with my personal domain)
 - Updated kops to 1.6.0 (released on May 16, updated by me on May 22)
-
-# Plans and Upgrades
-
-- Will beef up later and move to spot instances to get on c4.large (exciting)
-- CA Certs for Dashboard
-- Graphing and Miner Stats on Kubernetes Dashboard

@@ -12,7 +12,6 @@ To run local Vagrant Kops Box:
 - Have your terminal in the __kops-vagrant-box__ folder and run `vagrant up`.
 
 # Architecture
-NOTE: This can change! Plans for upgrades are in section __Plans and Upgrades__.
 
 ### Local
 

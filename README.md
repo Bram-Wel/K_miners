@@ -26,8 +26,7 @@ Kops Vagrant Box configured to AWS to create and maintain Kubernetes cluster on 
 - Zone: US East (North Virginia)
 - Node Size: t2.micro
 - Number of Nodes: 2
-- Master Node Size: t2.micro
-- Domain: kubernetes.vjeeva.com 
+- Master Node Size: t2.micro 
 
 # How to Deploy
 To create Kubernetes cluster on AWS with the Kops Vagrant Box:
